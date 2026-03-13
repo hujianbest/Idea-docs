@@ -6,3 +6,6 @@ superpowers开始发挥作用，开始执行后，仍然是先写实施文档，
 
 claude code可以开启subagents来完成任务
 ![[Pasted image 20260314025749.png]]
+
+看着是并行执行的
+![[Pasted image 20260314030614.png]]
